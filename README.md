@@ -1,2 +1,0 @@
-# Obeject-Detection
-Detection Models
